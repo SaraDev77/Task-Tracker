@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-# Task-Tracker
-## To Configure Json Server add this to json file iin scripts
-server : json-server --watch db.json --port 5000
-## To Run The Server
-npm run server
-=======
 # task-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## To Configure Json Server add this to json file in scripts
+server : json-server --watch db.json --port 5000
+## To Run The Server
+npm run server
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
